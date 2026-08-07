@@ -28,3 +28,8 @@ solution*/
 # OS
 .DS_Store
 Thumbs.db
+
+# Python model artifacts (large/regeneratable -- rerun the notebooks)
+model/data/
+*.pt
+*.npz
